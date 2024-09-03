@@ -1,0 +1,5 @@
+greeting = 'Hello, Freind!'
+print(greeting)
+
+King = 'Michael'
+print(King)
